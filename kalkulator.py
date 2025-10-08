@@ -15,5 +15,9 @@ elif wybierz == 4:
     print(liczba1, "/", liczba2, "=", liczba1 / liczba2)
 
 else:
-    print("nieobsugiwana funkcja")
+    print("miałeś wybrać w działaniu od 1 do 4 idioto")
 
+print("teraz należą mi się 3 franki szwajcarskie")
+print("możesz blikiem")
+a = input("podaj kod blik: ")
+print("dzięki, a jeśli podałeś fałszywy kod blik to umrzesz w przyszły czwartek")
